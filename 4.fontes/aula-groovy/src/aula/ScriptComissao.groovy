@@ -1,4 +1,6 @@
-import classes.Comissao;
+package aula;
+
+import classes.Comissao
 
 def comissoes = [new Comissao(valor: 100.50), new Comissao(valor: 200.50), new Comissao(valor: 300.50)]
 

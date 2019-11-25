@@ -8,7 +8,7 @@ class Exercicio1 {
         println "Ola mundo groovy"
 
         // Exer2
-        // interpolação de string -  cancatena automaticamente - $variavel ou $objeto.atributo
+        // interpolaÃ§Ã£o de string -  concatena automaticamente - $variavel ou $objeto.atributo
         String nome = "Fernando"
         int idade = 36
 
